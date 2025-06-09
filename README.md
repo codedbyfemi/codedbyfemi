@@ -7,11 +7,11 @@
 
 
 ### 🚀 Tech Stack
-- 💻 Languages: Java, Python, Dart, C, C++, C#, JavaScript
-- 🧰 Frameworks: Spring Boot, Flutter
+- 💻 Languages: Java, PHP, Python, Dart, C, C++, C#, JavaScript
+- 🧰 Frameworks: Spring Boot, Flutter, Laravel
 - 📱 Mobile Dev: Flutter
 - 🗃️ Databases: MongoDB, MySQL
-- ☁️ Backend: Spring Boot
+- ☁️ Backend: Spring Boot, Laravel
 - 🧪 Testing: Selenium, Appium (beginner)
 
 
