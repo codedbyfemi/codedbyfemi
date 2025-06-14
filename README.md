@@ -15,13 +15,6 @@
 - 🧪 Testing: Selenium, Appium (beginner)
 
 
-### 📊 GitHub Stats
-![Oluwafemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=codedbyfemi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyfemi&layout=compact&theme=radical)
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=codedbyfemi&)
-
-
-
 ### 🤓 Fun fact: ...
 
 - 🧠 I treat bugs like side quests — annoying, but I always come out stronger.
@@ -44,6 +37,10 @@
 - Portfolio: [coming soon...]
 
 
+### 📊 GitHub Stats
+![Oluwafemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=codedbyfemi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyfemi&layout=compact&theme=radical)
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=codedbyfemi&)
 
 ![Profile views](https://komarev.com/ghpvc/?username=codedbyfemi)
 
