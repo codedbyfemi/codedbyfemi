@@ -33,7 +33,7 @@
 - LinkedIn: [linkedin.com/in/Oluwafemi_Olatunji](www.linkedin.com/in/oluwafemi-olatunji-6456612ab)
 - Instagram: [@codedbyfemi](https://www.instagram.com/codedbyfemi/?__pwa=1)
 - Twitter: [@codedbyfemi](https://x.com/codedbyfemi)
-- Email: oluafemiolatunji6002@gmail.com
+- Email: oluwafemiolatunji6002@gmail.com
 - Portfolio: [coming soon...]
 
 
