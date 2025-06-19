@@ -34,7 +34,7 @@
 - Instagram: [@codedbyfemi](https://www.instagram.com/codedbyfemi/?__pwa=1)
 - Twitter: [@codedbyfemi](https://x.com/codedbyfemi)
 - Email: oluwafemiolatunji6002@gmail.com
-- Portfolio: [coming soon...]
+- Portfolio: [coming soon....]
 
 
 ### 📊 GitHub Stats
