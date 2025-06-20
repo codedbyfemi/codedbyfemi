@@ -1,5 +1,11 @@
 ## 👋 Hi, I'm Olatunji Oluwafemi Temitope
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Backend+Developer;Flutter+Developer;Problem+Solver;Code+Enthusiast)](https://git.io/typing-svg)
+
+</div>
+
 🎓 3rd Year Computer Science Student at Babcock University  
 📍 Based in Nigeria  
 🌱 Currently learning Flutter, Spring Boot, and Appium  
@@ -37,9 +43,25 @@
 - Portfolio: [coming soon....]
 
 
-### 📊 GitHub Stats
-![Oluwafemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=codedbyfemi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyfemi&layout=compact&theme=radical)
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=codedbyfemi&theme=onestar&no-frame=false&no-bg=false&margin-w=4&exclude=Star,Review,Issue,Stars,Reviews,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+![Damola's GitHub stats](https://github-readme-stats.vercel.app/api?username=codedbyfemi&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codedbyfemi&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyfemi&layout=compact&theme=radical&hide_border=true)
+
+</div>
 
 ![Profile views](https://komarev.com/ghpvc/?username=codedbyfemi)
 
