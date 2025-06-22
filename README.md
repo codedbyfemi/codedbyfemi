@@ -13,7 +13,7 @@
 
 
 ### 🚀 Tech Stack
-- 💻 Languages: Java, PHP, Python, Dart, C, C++, C#, JavaScript
+- 💻 Languages: Java, Kotlin, PHP, Python, Dart, C, C++, C#, VB.NET, JavaScript
 - 🧰 Frameworks: Spring Boot, Flutter, Laravel
 - 📱 Mobile Dev: Flutter
 - 🗃️ Databases: MongoDB, MySQL
