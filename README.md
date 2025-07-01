@@ -14,10 +14,10 @@
 
 ### 🚀 Tech Stack
 - 💻 Languages: Java, Kotlin, PHP, Python, Dart, C, C++, C#, VB.NET, JavaScript
-- 🧰 Frameworks: Spring Boot, Flutter, Laravel
+- 🧰 Frameworks: Spring Boot, Flutter
 - 📱 Mobile Dev: Flutter
 - 🗃️ Databases: MongoDB, MySQL
-- ☁️ Backend: Spring Boot, Laravel
+- ☁️ Backend: Spring Boot
 - 🧪 Testing: Selenium, Appium (beginner)
 
 
