@@ -55,7 +55,7 @@
 
 <div align="center">
   
-![Damola's GitHub stats](https://github-readme-stats.vercel.app/api?username=codedbyfemi&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![codedbyfemi's's GitHub stats](https://github-readme-stats.vercel.app/api?username=codedbyfemi&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codedbyfemi&theme=radical&hide_border=true)
 
