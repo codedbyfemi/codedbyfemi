@@ -7,14 +7,13 @@
 </div>
 
 🎓 3rd Year Computer Science Student at Babcock University  
-📍 Based in Nigeria  
-🌱 Currently learning Flutter, Spring Boot, and Appium  
+📍 Based in Nigeria   
 🧑‍🏫 Passionate about teaching others Java, C, and backend development  
 
 
 ### 🚀 Tech Stack
 - 💻 Languages: Java, Kotlin, Python, Dart
-- 🧰 Frameworks: Spring Boot, Flutter
+- 🧰 Frameworks: Spring Boot, Flutter, FastAPI
 - 📱 Mobile Dev: Flutter
 - 🗃️ Databases: MongoDB, MySQL, PostgreSQL
 - ☁️ Backend: SpringBoot, FastAPI 
