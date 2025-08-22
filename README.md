@@ -50,6 +50,11 @@
 
 </div>
 
+## 📉 My GitHub Contribution Graph<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codedbyfemi&theme=tokyo-night&bg_color=0f0f0f&color=00ff99&line=ff4d6d&point=ffffff&area=true&hide_border=true" alt="codedbyfemi's Colorful Contribution Graph" />
+</p>
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -61,6 +66,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyfemi&layout=compact&theme=radical&hide_border=true)
 
 </div>
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=codedbyfemi)
 
