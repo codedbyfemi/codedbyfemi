@@ -6,7 +6,7 @@
 
 </div>
 
-🎓 3rd Year Computer Science Student at Babcock University  
+🎓 4th Year Computer Science Student at Babcock University  
 📍 Based in Nigeria   
 🧑‍🏫 Passionate about teaching others Java, C, and backend development  
 
