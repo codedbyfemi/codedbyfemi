@@ -13,12 +13,12 @@
 
 ### 🚀 Tech Stack
 - 💻 Languages: Java, Python, Dart, JavaScript, TypeScript, C/C++
-- 🧰 Frameworks: Spring Boot, Flutter, FastAPI, Express
+- 🧰 Frameworks: Spring Boot, Flutter, FastAPI, Express, NestJS
 - 📱 Mobile Dev: Flutter
 - 🗃️ Databases: MongoDB, MySQL, PostgreSQL
-- ☁️ Backend: SpringBoot, FastAPI, Express
+- ☁️ Backend: SpringBoot, FastAPI, Express, NestJS
 - 🧪 Testing: Selenium
-- 🔬 Dev Tools: Git, VSCode, IntelliJ IDEA, Android Studio, Postman
+- 🔬 Dev Tools: Git, VSCode, IntelliJ IDEA, Android Studio, Postman, cURL
 
 
 ### 🤓 Fun fact: ...
